@@ -1,3 +1,3 @@
-module github.com/maoyunao/go_util
+module github.com/maoyunao/goutil
 
 go 1.18
