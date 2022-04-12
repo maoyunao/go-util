@@ -1,2 +1,2 @@
-# go-util
+# goutil
 my util
